@@ -10,3 +10,10 @@ If you use the code in this repository please cite:
 	author = {Lajoie, Pierre-Yves and Beltrame, Giovanni},
 }
 ```
+
+# How to use
+
+- Use the `frame-extractor` to extract training samples from your data.
+- Use the `vpr-and-uncertainty-calibrator` to calibrate your Visual Place Recognition network and train an uncertainty estimator.
+
+See more execution details in the submodules.
