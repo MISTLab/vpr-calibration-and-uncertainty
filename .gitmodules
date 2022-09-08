@@ -4,3 +4,6 @@
 [submodule "vpr-and-uncertainty-calibrator"]
 	path = vpr-and-uncertainty-calibrator
 	url = https://github.com/lajoiepy/vpr-and-uncertainty-calibrator.git
+[submodule "slam_interfaces"]
+	path = slam_interfaces
+	url = https://github.com/lajoiepy/slam_interfaces.git
